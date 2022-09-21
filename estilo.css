@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: blueviolet;
+    padding: 50px;
+}
+
+
+#jogos{
+    background-color: aqua;
+    padding: 50px;
+}
+
+
+#chb{
+    background-color: crimson;
+    padding: 50px;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+
+#meus-jogos img{
+    margin: auto;
+}
